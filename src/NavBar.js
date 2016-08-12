@@ -138,8 +138,8 @@ const styles = StyleSheet.create({
     fontSize: 17,
   },
   backButtonImage: {
-    width: 13,
-    height: 21,
+    width: 18,
+    height: 29,
   },
   rightButtonIconStyle: {
 

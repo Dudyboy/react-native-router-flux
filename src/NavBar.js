@@ -90,6 +90,7 @@ const styles = StyleSheet.create({
     left: 2,
     padding: 8,
     flexDirection: 'row',
+    zIndex: 1
   },
   rightButton: {
     width: 100,
